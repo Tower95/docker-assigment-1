@@ -40,7 +40,7 @@
 # https://github.com/BretFisher/node-docker-good-defaults
 
 
-FROM node:6-alpine
+FROM node:6-alpine 
 
 ENV NODE_ENV=development
 
